@@ -16,18 +16,18 @@ public class Main {
                 scanner.nextLine();
 
                 switch (choice) {
-                    case 1 -> {
+                    case 1:
                         List<Book> books = manager.readBooks();
                         for (Book b : books) System.out.println(b);
-                    }
-                    case 2 -> {
+                        break;
+                    case 2:
                         System.out.print("Enter keyword: ");
                         String keyword = scanner.nextLine();
                         List<Book> results = manager.searchBooks(keyword);
                         if (results.isEmpty()) System.out.println("No matches found.");
                         else for (Book b : results) System.out.println(b);
-                    }
-                    case 3 -> {
+                        break;
+                    case 3:
                         System.out.print("Title: ");
                         String title = scanner.nextLine();
                         System.out.print("Author: ");
@@ -39,12 +39,12 @@ public class Main {
                         scanner.nextLine();
 
                         manager.addBook(new Book(title, author, publisher, year));
-                    }
-                    case 4 -> {
+                        break;
+                    case 4:
                         System.out.println("Exiting program.");
                         return;
-                    }
-                    default -> System.out.println("Invalid option.");
+                    default:
+                        System.out.println("Invalid option.");
                 }
             }
         }
