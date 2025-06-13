@@ -7,6 +7,7 @@ import javax.xml.transform.stream.*;
 import org.w3c.dom.*;
 
 public class BookManager {
+    @SuppressWarnings("FieldMayBeFinal")
     private String filePath;
 
     public BookManager(String filePath) {
