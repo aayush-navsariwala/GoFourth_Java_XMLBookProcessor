@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <publisher>Addison-Wesley</publisher>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <publisher>Prentice Hall</publisher>
+        <year>2008</year>
+    </book>
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt</author>
+        <publisher>Addison-Wesley</publisher>
+        <year>1999</year>
+    </book>
+    <book>
+        <title>Design Patterns</title>
+        <author>Erich Gamma</author>
+        <publisher>Addison-Wesley</publisher>
+        <year>1994</year>
+    </book>
+    <book>
+        <title>Introduction to Algorithms</title>
+        <author>Thomas H. Cormen</author>
+        <publisher>MIT Press</publisher>
+        <year>2009</year>
+    </book>
+    <book>
+        <title>Artificial Intelligence: A Modern Approach</title>
+        <author>Stuart Russell</author>
+        <publisher>Pearson</publisher>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Head First Java</title>
+        <author>Kathy Sierra</author>
+        <publisher>O'Reilly Media</publisher>
+        <year>2005</year>
+    </book>
+    <book>
+        <title>Java: The Complete Reference</title>
+        <author>Herbert Schildt</author>
+        <publisher>McGraw-Hill Education</publisher>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <publisher>No Starch Press</publisher>
+        <year>2019</year>
+    </book>
+    <book>
+        <title>Cracking the Coding Interview</title>
+        <author>Gayle Laakmann McDowell</author>
+        <publisher>CareerCup</publisher>
+        <year>2015</year>
+    </book>
+    <book>
+        <title>Deep Learning</title>
+        <author>Ian Goodfellow</author>
+        <publisher>MIT Press</publisher>
+        <year>2016</year>
+    </book>
+    <book>
+        <title>Refactoring</title>
+        <author>Martin Fowler</author>
+        <publisher>Addison-Wesley</publisher>
+        <year>2018</year>
+    </book>
+    <book>
+        <title>Structure and Interpretation of Computer Programs</title>
+        <author>Harold Abelson</author>
+        <publisher>MIT Press</publisher>
+        <year>1996</year>
+    </book>
+</library>
